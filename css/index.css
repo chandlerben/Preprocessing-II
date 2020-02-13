@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+html {
+  background-color: red;
+=======
 @media (max-width: 670px) {
   .mobile-screen {
     flex-direction: column;
@@ -385,4 +389,5 @@ img {
   font-size: 1.6rem;
   padding: 0 20px 0;
   text-decoration: none;
+>>>>>>> ded4b11cce72aa66cae16d2de5e9db97232e3fbc
 }
